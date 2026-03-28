@@ -129,10 +129,10 @@
       <p class="byline">Por <strong>Valentina Alcota</strong>, <strong>Romina Cancino</strong>, <strong>Amarah López</strong> y <strong>Martina Sara</strong></p>
 
       <p>Esta visualización aborda el fenómeno del eclipse solar de 2017 no como un evento científico distante, sino como una interrogante de relevancia personal. El problema que resuelve es la "incertidumbre del observador". Mientras que un gráfico tradicional mostraría la trayectoria global de la sombra, esta pieza se centra en resolver preguntas clave:
-¿Quién?: El usuario, cuya posición es el eje central de la narrativa.
-¿Qué?: El grado de oscurecimiento y la apariencia visual del sol.
-¿Dónde?: La relación exacta entre la ubicación del lector y la franja de totalidad.
-¿Cuándo?: El cronograma preciso (minuto a minuto) del evento según el huso horario local.
+      - ¿Quién?: El usuario, cuya posición es el eje central de la narrativa.
+      - ¿Qué?: El grado de oscurecimiento y la apariencia visual del sol.
+      - ¿Dónde?: La relación exacta entre la ubicación del lector y la franja de totalidad.
+      - ¿Cuándo?: El cronograma preciso (minuto a minuto) del evento según el huso horario local.
 </p>
 
       <figure>
@@ -140,7 +140,7 @@
         <figcaption>Source: Institute for the Study of War</figcaption>
       </figure>
 
-      <p>Análisis de la Información (Modelo DIKW)
+      <p>Análisis de la Información (Modelo DIKW):
 En este sistema predomina el Dato Útil y la Verdad Semántica. Según la jerarquía de Frické (2018):
 Datos y Metadatos: La pieza utiliza símbolos que representan propiedades de objetos (coordenadas de la NASA y la IP del usuario). Los metadatos de ubicación permiten filtrar una base de datos masiva para extraer solo lo pertinente.
 Información: El sistema procesa los datos brutos para responder a una consulta específica. Aquí la información es una "construcción" que otorga sentido al dato astronómico frío.
