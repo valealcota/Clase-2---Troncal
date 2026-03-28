@@ -128,12 +128,11 @@
       <h2>Análisis crítico de una interfaz interactiva donde el dato astronómico se transforma en información con propósito individual.</h2>
       <p class="byline">Por <strong>Valentina Alcota</strong>, <strong>Romina Cancino</strong>, <strong>Amarah López</strong> y <strong>Martina Sara</strong></p>
 
-      <p> Esta visualización aborda el fenómeno del eclipse solar de 2017 no como un evento científico distante, sino como una interrogante de relevancia personal. El problema que resuelve es la "incertidumbre del observador". Mientras que un gráfico tradicional mostraría la trayectoria global de la sombra, esta pieza se centra en resolver preguntas clave:
-        ¿Quién?: El usuario, cuya posición es el eje central de la narrativa.
+      <p>Esta visualización aborda el fenómeno del eclipse solar de 2017 no como un evento científico distante, sino como una interrogante de relevancia personal. El problema que resuelve es la "incertidumbre del observador". Mientras que un gráfico tradicional mostraría la trayectoria global de la sombra, esta pieza se centra en resolver preguntas clave:
+¿Quién?: El usuario, cuya posición es el eje central de la narrativa.
 ¿Qué?: El grado de oscurecimiento y la apariencia visual del sol.
 ¿Dónde?: La relación exacta entre la ubicación del lector y la franja de totalidad.
 ¿Cuándo?: El cronograma preciso (minuto a minuto) del evento según el huso horario local.
-
 </p>
 
       <figure>
